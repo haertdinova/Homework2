@@ -1,0 +1,200 @@
+<TEI> 
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+               <title>Елисей, или Раздражённый Вакх. Песнь третья</title>
+            </titleStmt>
+            <respStmt>
+                <persName>Йолдуз Хаертдинова</persName>
+                <resp>создание TEI документа, выделение в тексте персоналий/мест</resp>
+            </respStmt>
+         </fileDesc>
+         <profileDesc>      
+             <particDesc>
+                 <listPerson type="fictional">   
+                     <person xml:id="01">     
+                         <persName>старичок</persName>
+                         <persName>муж</persName>						 
+                         <persName>командир</persName>
+                         <persName>герой</persName>	
+ 						 <persName>он</persName>
+						 <persName>любовник</persName>
+						 <persName>начальник</persName>
+						 <persName>я</persName>
+						 <persName>себя</persName>
+					 </person>
+                     <person xml:id="02">
+                         <persName>начальница</persName>
+						 <persName>она</persName>	
+						 <persName>бабушка</persName>
+						 <persName>святая мать</persName>
+						 <persName>она</persName>
+						 <persName>себя</persName>
+                     </person>
+					 <person xml:id="03">
+					     <persName>внучок</persName>
+						 <persName>Елисей</persName>
+						 <persName>Елеся</persName>
+						 <persName>Елеська</persName>
+						 <persName>мой свет</persName>
+						 <persName>голубушка</persName>
+						 <persName>племянница</persName>
+						 <persName>девушка</persName>
+						 <persName>девка</persName>	
+						 <persName>колодница</persName>
+						 <persName>ямщик</persName>	
+						 <persName>он</persName>
+						 <persName>она</persName>
+						 <persName>ты</persName>
+					 </person>
+					 <person xml:id="04">
+					     <persName>караульные</persName>
+					 </person>
+					 <person xml:id="05">
+					     <persName>служивый</persName>
+					 <person xml:id="06">
+					     <persName>сержант</persName>
+						 <persName>он</persName>	
+					 </person>
+					 </listPerson>
+					 <listPerson type="mythical">
+					 <person xml:id="07">
+					     <persName>Зевес</persName>	
+					 </person>
+					 <person xml:id="08">
+					     <persName>Вакх</persName>	
+						 <persName>он</persName>	
+					 </person>
+					 <person xml:id="09">
+					     <persName>Ермий</persName>	
+						 <persName>он</persName>	
+					 </person>
+					 <person xml:id="10">
+					     <persName>лукавый бес</persName>	
+					 </person>
+              </particDesc>
+          </profileDesc>
+    </teiHeader>
+    <text>    
+         Но стоючи у сих красавиц насторо́же,
+         Почувствовал в себе, почувствовал... и что же?
+         В какую <person xml:id="01"><persName>старичок</persName></person> повергнулся напасть!
+         Сей <person xml:id="01"><persName>муж</persName></person> почувствовал в себе любовну страсть,
+         И то бы ничего, что <person xml:id="01"><persName>он</persName></person> воспламенился,
+         Но кем? О ужас! <person xml:id="01"><persName>он</persName></person> <person xml:id="02"><persName>начальницей</persName></person> пленился.
+         Внезапно на <person xml:id="01"><persName>него</persName></person> блажной навеял час,
+         Хоть совесть не один <person xml:id="01"><persName>ему</persName></person> твердила раз:
+         «Мужчина в двадцать дет красавицам любезен,
+         И в тридцать может быть для них еще полезен;
+         А ежели кому пробило сорок лет,
+         Тот, незван, никуда не езди на обед;
+         Домашним буди сыт: пей, ешь, живи, красуйся,
+         А к женщинам отнюдь с амурами не суйся.
+         Твоя уже чреда любиться протекла!»
+         Так совесть собственна ему тогда рекла,
+         Но <person xml:id="01"><persName>он</persName></person> толь правильным речам ее не внемлет,
+         К <person xml:id="02"><persName>начальнице</persName></person> в покой вломиться предприемлет;
+         Вещает сам <person xml:id="01"><persName>себе<persName></person>: «Во что б ни стало <person xml:id="01"><persName>мне</persName></person>,
+         А <person xml:id="01"><persName>я</persName></person> пробуду с <person xml:id="02"><persName>ней</persName></person> всю ночь наедине,
+         Неу́жели <person xml:id="02"><persName>она</persName></person> в сем даре <person xml:id="01"><persName>мне</persName></person> откажет,
+         Что на кровать свою уснуть со <person xml:id="01"><persName>мной</persName></person> не ляжет?
+         Ведь <person xml:id="01"><persName>я</persName></person> еще <person xml:id="01"><persName>себя</persName></person> чрез то не погублю,
+         Когда скажу <person xml:id="01"><persName>я</persName></person> <person xml:id="02"><persName>ей</persName></person>, что <person xml:id="01"><persName>я</persName></person> <person xml:id="02"><persName>ее</persName></person> люблю;
+         И ежели <person xml:id="02"><persName>она</persName></person> со <person xml:id="01"><persName>мной</persName></person> не хочет вздорить,
+         Так будет ли о сей безделице и спорить?»
+         Се тако <person xml:id="01"><persName>командир</persName></person> с <person xml:id="01"><persName>собою</persName></person> рассуждал,
+         И тако <person xml:id="01"><persName>он</persName></person> <person xml:id="01"><persName>себе</persName></person> удачи ожидал;
+         В нечистом помысле приходит к той комна́тке,
+         В которой <person xml:id="02"><persName>бабушка</persName></person> со <person xml:id="03"><persName>внучком</persName></person> на кроватке.
+         <person xml:id="02"><persName>Она</persName></person> за полчаса пред <person xml:id="01"><persName>ним</persName></person> туда пришла
+         И <person xml:id="03"><persName>Елисея</persName></person> в ней храпящего нашла;
+         Дрожащею рукой <person xml:id="03"><persName>его</persName></person> <person xml:id="02"><persName>она</persName></person> толкает
+         И тихим голосом <person xml:id="03"><persName>Елесю</persName></person> раскликает,
+         Касаяся <person xml:id="03"><persName>ему</persName></person>, по имени зовет:
+         «Проснися, <person xml:id="03"><persName>Елисей</persName></person>, проснися <person xml:id="03"><persName>ты</persName</person>, <person xml:id="03"><persName>мой свет</persName></person>!»
+         <person xml:id="03"><persName>Елеся</persName></person>, пробудясь, узрел <person xml:id="02"><persName>святую мати</persName></person>,
+         Подвинулся и дал <person xml:id="02"><persName>ей</persName></person> место на кровати.
+         Но только <person xml:id="03"><persName>он</persName></person> наверх блаженства возлетел,
+         Как грозный <person xml:id="01"><persName>командир</persName></person> во дверь идти хотел;
+         Толкает тростию и настежь отворяет,
+         <person xml:id="03"><persName>Елеська</persName></person> наверху блаженства обмирает
+         И с оного тотчас как бешеный скочил.
+         Об этом <person xml:id="01"><persName>командир</persName></person> худое заключил
+         И стал допрашивать <person xml:id="03"><persName>Елеську</persName></person> очень строго:
+         «Отколе <person xml:id="03"><persName>ты</persName></person> пришла, одета столь убого?
+         И для чего <person xml:id="03"><persName>тебя</persName></person> в моем реестре нет?
+		 Скажи, <person xml:id="03"><persName>голубушка</persName></person>, откуда <person xml:id="03"><persName>ты</persName></person>, <person xml:id="03"><persName>мой свет</persName></person>?»
+         Тогда не знал <person xml:id="03"><persName>он</persName></person>, что на это отвечати,
+         Хоть не было на рту замка и ни печати;
+         Однако ж <person xml:id="03"><persName>Елисей</persName></person>, потупяся, молчит,
+         А <person xml:id="01"><persName>командирина</persName></person> шурмует и кричит.
+         <person xml:id="02"><persName>Начальница</persName></person> <person xml:id="02"><persName>себя</persName></person> от бедства избавляет,
+         С учтивостью сему <person xml:id="01"><persName>герою</persName></person> представляет,
+         Чтоб <person xml:id="01"><persName>он</persName></person> не гневался напрасно на <person xml:id="02"><persName>нее</persName></person>,
+         Что видит пред собой <person xml:id="03"><persName>племянницу</persName></person> ее,
+         Которая пришла сей день к <person xml:id="02"><persName>ней</persName></person> только в гости,
+         Но, опасаяся людей лукавых злости,
+         Не смела поздно так домой <person xml:id="03"><persName>она</persName></person> отбыть,
+         Затем чтоб жертвою насильствия не быть,
+         И что зачем <person xml:id="01"><persName>он</persName></person> сам столь поздно к <person xml:id="02"><persName>ней</persName></person> приходит?
+         Такими петлями свой след <person xml:id="02"><persName>она</persName></person> отводит.
+         Но <person xml:id="01"><persName>командир</persName></person> ее не внемлет льстивых слов,
+         За это <person xml:id="01"><persName>он</persName></person> хотя в удавку лезть готов,
+         Что речь ее пред <person xml:id="01"><persName>ним</persName></person> единые обманы;
+         Обыскивает все у <person xml:id="03"><persName>девушки</persName></person> карманы,
+         Не приличится ли виновною <person xml:id="03"><persName>она</persName></person>:
+         В карманах не было у <person xml:id="03"><persName>девки</persName></person> ни рожна,
+         И не было того, что б можно счесть за кражу;
+         Однако ж <person xml:id="01"><persName>он</persName></person> велел отвесть <person xml:id="03"><persName>ее</persName></person> под стражу.
+         Возможно ли сие постигнути уму?
+         <person xml:id="03"><persName>Елеська</persName></person> через день попал опять в тюрьму,
+         И в этой бы <person xml:id="03"><persName>ему</persName></person> не быть уже без казни,
+         Когда бы <person xml:id="08"><persName>Вакх</persName></person> к <person xml:id="03"><persName>нему</persName></person> не чувствовал приязни.
+         К <person xml:id="07"><persName>Зевесу</persName></person> <person xml:id="08"><persName>он</persName></person>; <person xml:id="07"><persName>Зевес</persName></person> <person xml:id="09"><persName>Ермия</persName></person> нарядил,
+         Чтоб паки <person xml:id="09"><persName>он</persName></person> <person xml:id="03"><persName>его</persName></person> от уз освободил.
+         Сей тотчас прилетел к нему, несом как ветром,
+         Но был уже <person xml:id="09"><persName>Ермий</persName></person> одеян петиметром:
+         Высокая тупе, подправлены виски;
+         Уже <person xml:id="09"><persName>он</persName></person> снял с себя капральские уски,
+         И также не был <person xml:id="09"><persName>он</persName></person> одеян и колетом;
+         <person xml:id="09"><persName>Ермий</persName></person> со тросточкой, <person xml:id="09"><persName>Ермий</persName></person> мой со лорнетом,
+         В который, чваняся, на девушек глядел.
+         Тогда на <person xml:id="03"><persName>ямщика</persName></person> <person xml:id="09"><persName>он</persName></person> шапочку надел;
+         А дар в себе такой имела шапка эта:
+         На чью бы голову была она ни вздета
+         И кто покроется покровом лишь таким,
+         Исчезнет абие и будет невидим.
+         И тако, быв покрыт покровом сим, <person xml:id="03"><persName>Елеся</persName></person>
+         Вторично в комнату к <person xml:id="02"><persName>начальнице</persName></person> принесся
+         И с <person xml:id="02"><persName>нею</persName></person> целу ночь в забавах проводил.
+         Меж тем уж утра час девятый приходил,
+         Когда разгневанный <person xml:id="01"><persName>любовник</persName></person> пробудился
+         И арестованной <person xml:id="03"><persName>колодницы</persName></person> хватился;
+         Тогда в глазах его блистали гнев и месть.
+         Велит немедленно к <person xml:id="01"><persName>себе</persName></person> <person xml:id="03"><persName>ее</persName></person> привесть;
+         Но <person xml:id="04"><persName>караульные</persName></person> <person xml:id="03"><persName>ее</persName></person> не обретают
+         И <person xml:id="03"><persName>девку</persName></person> мнимую ушедшею считают.
+         <person xml:id="06"><persName>Сержант</persName></person> ко своему <person xml:id="01"><persName>начальнику</persName></person> бежит
+         И весть ужасную сказать <person xml:id="01"><persName>ему</persName></person> дрожит,
+         Однако ж наконец побег ее доносит,
+         А строгий <person xml:id="01"><persName>командир</persName></person> кафтан и шпагу просит.
+         Лишь только выбежал, одевшися, во двор,
+         Вскричал тотчас: «К ружью!», велел ударить в сбор.
+         «Кто <person xml:id="03"><persName>девку</persName></person> упустил, на чьих часах то было?» —
+         Кричит и всякого толкает в ус да в рыло.
+         Однако ж, сколько <person xml:id="01"><persName>он</persName></person> кого ни истязал,
+         <person xml:id="05"><persName>Служивый</persName></person> ни один того не показал,
+         Кто выпустил <person xml:id="03"><persName>ее</persName></person> и где <person xml:id="03"><persName>она</persName></person> девалась.
+         Хоть с домом <person xml:id="03"><persName>девушка</persName></person> отнюдь не расставалась,
+         Но думают, что сам ее <person xml:id="10"><persName>лукавый бес</persName></person>,
+         Укравши на себе, из дома вон унес.
+         Итак, весь оный шум окончен сей войною:
+         <person xml:id="06"><persName>Сержант</persName></person> отдулся тут за всех своей спиною,
+         Хотя и не был <person xml:id="06"><persName>он</persName></person> нимало виноват,
+         Лишь грешен разве тем одним, что <person xml:id="06"><persName>он</persName></person> сержант.
+         <person xml:id="03"><persName>Елеся</persName></person> между тем в забавах пребывает
+         И шапки с головы отнюдь не скидавает,
+         Не видимый никем под чудным сим шатром
+         Выходит иногда <person xml:id="03"><persName>он</persName></person> вон и из хором;
+    </text>
+</TEI>
